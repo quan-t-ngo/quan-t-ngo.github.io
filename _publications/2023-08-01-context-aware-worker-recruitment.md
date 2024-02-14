@@ -6,9 +6,8 @@ excerpt: 'This work introduces a context-aware approach to improve worker recrui
 date: 2023-08-01
 venue: 'IEEE Access'
 paperurl: 'https://doi.org/10.1109/ACCESS.2023.3308202'
-citation: 'Quan T. Ngo, Seokhoon Yoon. (2023). "Context-Aware Worker Recruitment for Mobile Crowd Sensing Based on Mobility Prediction." IEEE Access, vol. 11, pp. 92353-92364.'
 ---
-This paper focuses on enhancing mobile crowd sensing efficiency by employing context-aware strategies for worker recruitment, supported by predictive analytics based on user mobility.
+This paper focuses on enhancing mobile crowd-sensing efficiency by employing context-aware strategies for worker recruitment, supported by predictive analytics based on user mobility.
 
 [Download paper here](https://doi.org/10.1109/ACCESS.2023.3308202)
 
