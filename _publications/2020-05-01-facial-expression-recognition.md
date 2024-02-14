@@ -1,5 +1,5 @@
 ---
-title: "Facial Expression Recognition Based on Weighted-Cluster Loss and Deep Transfer Learning Using a Highly Imbalanced Dataset"
+title: "[Journal] Facial Expression Recognition Based on Weighted-Cluster Loss and Deep Transfer Learning Using a Highly Imbalanced Dataset"
 collection: publications
 permalink: /publication/2020-05-01-facial-expression-recognition
 excerpt: 'This paper explores facial expression recognition using weighted-cluster loss and deep transfer learning techniques on highly imbalanced datasets.'
