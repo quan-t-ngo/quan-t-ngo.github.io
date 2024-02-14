@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Quan T. Ngo | PhD."
+title                    : "Quan T. Ngo"
 title_separator          : "-"
 name                     : &name "Quan T. Ngo"
 description              : &description "personal description"
