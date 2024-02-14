@@ -1,5 +1,5 @@
 ---
-title: "Method and Device for Transfer Learning-based Facial Expression Recognition Using Weighted Cluster Loss"
+title: "[Patent] Method and Device for Transfer Learning-based Facial Expression Recognition Using Weighted Cluster Loss"
 collection: publications
 permalink: /publication/2022-09-01-transfer-learning-facial-expression
 excerpt: 'This patent describes a novel method and device for facial expression recognition utilizing transfer learning and weighted cluster loss techniques.'
