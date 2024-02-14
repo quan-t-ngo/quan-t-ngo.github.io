@@ -1,5 +1,5 @@
 ---
-title: "A Low Cost Decentralized Future Contacts Prediction Model Using Wi-Fi Traces"
+title: "[Journal] A Low Cost Decentralized Future Contacts Prediction Model Using Wi-Fi Traces"
 collection: publications
 permalink: /publication/2022-11-01-wifi-traces-prediction
 excerpt: 'This paper develops a low-cost, decentralized model for predicting future human contacts using Wi-Fi traces.'
