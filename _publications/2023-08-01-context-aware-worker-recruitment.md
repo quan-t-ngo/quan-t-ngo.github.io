@@ -1,5 +1,5 @@
 ---
-title: "Context-Aware Worker Recruitment for Mobile Crowd Sensing Based on Mobility Prediction"
+title: "[Journal] Context-Aware Worker Recruitment for Mobile Crowd Sensing Based on Mobility Prediction"
 collection: publications
 permalink: /publication/2023-08-01-context-aware-worker-recruitment
 excerpt: 'This work introduces a context-aware approach to improve worker recruitment for mobile crowd sensing applications, utilizing advanced mobility prediction.'
