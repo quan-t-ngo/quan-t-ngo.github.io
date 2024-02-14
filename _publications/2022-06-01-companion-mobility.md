@@ -1,5 +1,5 @@
 ---
-title: "Companion Mobility to Assist in Future Human Location Prediction"
+title: "[Journal] Companion Mobility to Assist in Future Human Location Prediction"
 collection: publications
 permalink: /publication/2022-06-01-companion-mobility
 excerpt: 'This study introduces innovative techniques for predicting human location by analyzing companion mobility patterns.'
