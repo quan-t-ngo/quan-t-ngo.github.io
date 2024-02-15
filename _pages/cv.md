@@ -9,51 +9,54 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **B.S. in Electronics and Telecommunications Engineering**
+  * The University of Danang, University of Science and Technology, Vietnam
+  * 2016
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **M.S. & Ph.D. (Integrated Program) in AI & Computer Engineering**
+  * The University of Ulsan, South Korea
+  * 2024
+
+# Work Experience
+
+## Postdoctoral Researcher
+* **The University of Ulsan**
+* *March 2024 - Present*
+* **Projects:**
+  * Task Offloading
+  * Smart Trading/Robo-advisor
+
+## PhD Researcher
+* **The University of Ulsan**
+* *March 2017 - February 2024*
+* **Projects:**
+  * Human Mobility Prediction (Next Location Prediction, Future Encounter Prediction)
+  * Facial Expression Recognition
+  * Task Assignment in Mobile Crowd Sensing
+
+# Skills
+
+* **Machine Learning:**
+  * Frameworks: TensorFlow, Keras, PyTorch, scikit-learn
+
+* **Software Engineering:**
+  * Programming Languages: Python, Matlab, C++
+  * Database: NoSQL
+
+* **Other:**
+  * Teamwork
+  * Technical Paper Reading
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+# Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+# Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
