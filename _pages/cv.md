@@ -40,14 +40,20 @@ Skills
 ======
 * **Machine Learning:**
   * Frameworks: TensorFlow, Keras, PyTorch, scikit-learn
+  * Data Visualization: Matplotlib, Seaborn
+  * Machine Learning Model Evaluation Metrics
+  * Advanced Deployment: TensorFlow Serving
 
 * **Software Engineering:**
   * Programming Languages: Python, Matlab, C++
   * Database: NoSQL
+  * Version Control: Git, GitHub
+  * Containerization and Virtualization: Docker
 
 * **Other:**
   * Teamwork
   * Technical Paper Reading
+  * Public Speaking and Presentation Skills
   
 Publications
 ======
