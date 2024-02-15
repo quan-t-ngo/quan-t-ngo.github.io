@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assitant Fall 2020"
+title: "Teaching Assistant Fall 2020"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-teaching
@@ -8,5 +8,5 @@ date: 2020-09-01
 location: "Ulsan, South Korea"
 ---
 
-* Collaborated with Professor Yoon Seokhoon to facilitate the "Introduction to Machine Learning" course, overseeing laboratory sessions for a cohort of 40 students.
-* Compiled comprehensive lab materials, including code and slides, and actively engaged with students by addressing inquiries and administering assignments, while also providing thorough grading and feedback.
+* Initiated my role as a Teaching Assistant alongside Professor Yoon Seokhoon for the "Introduction to Machine Learning" course, managing the lab sessions for 40 students.
+* Developed a suite of lab materials tailored for hands-on learning, including coding exercises and slides. Prioritized student engagement through responsive support, addressing all inquiries and guiding assignments with detailed feedback to nurture understanding and skills in machine learning fundamentals.
