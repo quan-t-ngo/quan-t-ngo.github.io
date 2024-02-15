@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-*B.S. in Electronics and Telecommunications Engineering**
+* **B.S. in Electronics and Telecommunications Engineering**
   * The University of Danang, University of Science and Technology, Vietnam
-  * 2016
+  * July 2016
 
-*M.S. & Ph.D. (Integrated Program) in AI & Computer Engineering**
+* **M.S. & Ph.D. (Integrated Program) in AI & Computer Engineering**
   * The University of Ulsan, South Korea
-  * 2024
+  * Feb 2024
 
 Work Experience
 ======
