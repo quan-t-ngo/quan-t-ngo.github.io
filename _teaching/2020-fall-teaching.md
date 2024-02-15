@@ -2,7 +2,7 @@
 title: "Teaching Assitant Fall 2020"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-fall-teaching-1
+permalink: /teaching/2020-fall-teaching
 venue: "Electrical, Electronic, and Computer Engineering Department, University of Ulsan, South Korea"
 date: 2020-09-01
 location: "Ulsan, South Korea"
