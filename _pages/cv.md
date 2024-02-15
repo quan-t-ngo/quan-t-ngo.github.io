@@ -9,35 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
-
-* **B.S. in Electronics and Telecommunications Engineering**
+Education
+======
+*B.S. in Electronics and Telecommunications Engineering**
   * The University of Danang, University of Science and Technology, Vietnam
   * 2016
 
-* **M.S. & Ph.D. (Integrated Program) in AI & Computer Engineering**
+*M.S. & Ph.D. (Integrated Program) in AI & Computer Engineering**
   * The University of Ulsan, South Korea
   * 2024
 
-# Work Experience
+Work Experience
+======
+* **Postdoctoral Researcher**
+  * The University of Ulsan
+  * *March 2024 - Present*
+  * Projects:
+    * Task Offloading
+    * Smart Trading/Robo-advisor
 
-## Postdoctoral Researcher
-* **The University of Ulsan**
-* *March 2024 - Present*
-* **Projects:**
-  * Task Offloading
-  * Smart Trading/Robo-advisor
+* **PhD Researcher**
+  * The University of Ulsan
+  * March 2017 - February 2024
+  * Projects:
+    * Human Mobility Prediction (Next Location Prediction, Future Encounter Prediction)
+    * Facial Expression Recognition
+    * Task Assignment in Mobile Crowd Sensing
 
-## PhD Researcher
-* **The University of Ulsan**
-* *March 2017 - February 2024*
-* **Projects:**
-  * Human Mobility Prediction (Next Location Prediction, Future Encounter Prediction)
-  * Facial Expression Recognition
-  * Task Assignment in Mobile Crowd Sensing
-
-# Skills
-
+Skills
+======
 * **Machine Learning:**
   * Frameworks: TensorFlow, Keras, PyTorch, scikit-learn
 
@@ -49,13 +49,13 @@ redirect_from:
   * Teamwork
   * Technical Paper Reading
   
-# Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Teaching
+Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
