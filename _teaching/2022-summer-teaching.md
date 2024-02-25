@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant Fall 2022"
+title: "Teaching Assistant Summer 2022"
 collection: teaching
 type: "Special course in Machine Learning"
 permalink: /teaching/2022-summer-teaching
