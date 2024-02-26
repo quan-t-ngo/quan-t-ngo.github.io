@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[Doctoral Dissertation] Human Mobility Prediction and Application in Mobile Crowd Sensing"
+title: "Human Mobility Prediction and Application in Mobile Crowd Sensing"
 permalink: /doctoral-dissertation/
 date: 2023-12-01
 venue: 'University of Ulsan, Ulsan, South Korea'
