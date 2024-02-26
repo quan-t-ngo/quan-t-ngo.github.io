@@ -17,7 +17,7 @@ The second framework, named ‘Context-Aware Worker Recruitment based on a Mobil
 
 The performance of these frameworks was evaluated across diverse datasets, demonstrating higher predictive accuracy and more successful task completion within budget constraints compared to alternatives.
 
-Recommended citation: 'Quan T. Ngo. (2023). "Human Mobility Prediction and Application in Mobile Crowd Sensing", Doctoral dissertation, University of Ulsan.'
+Recommended citation: 'Quan T. Ngo. (2023). "Human Mobility Prediction and Application in Mobile Crowd Sensing", Doctoral dissertation, University of Ulsan, Ulsan, South Korea'
 
 
 
